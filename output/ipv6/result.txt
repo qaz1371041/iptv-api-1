@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-22 18:44:34,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-09-25 18:44:56,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -28,7 +28,6 @@ CCTV-11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11$订阅源
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731$订阅源
 CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
 CCTV-12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12$订阅源
-CCTV-12,https://mgtv.ottiptv.cc/migu/673168185.m3u8?migutoken=ec6556fba740bc9c1874c491f470ddeaabdbb696e08816ea6ed1f0224008b4f3fcf4abba43dd7afd0d9af9d571fe631c78eccf94b4f964e1511a09bce673adafaadd8c825628be0fbd9a7cd548$订阅源
 CCTV-13,https://cc06.tv12.xyz/14.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
@@ -79,7 +78,6 @@ CCTV-17,https://mgtv.ottiptv.cc/migu/673168256.m3u8?migutoken=549f447a71760fff3b
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$订阅源
 吉林卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010075$订阅源
-吉林卫视,http://cc02.tv12.xyz/5.m3u8$订阅源
 江苏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059$订阅源
 江西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010060$订阅源
 辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546$订阅源
