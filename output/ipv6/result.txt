@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-10-10 18:42:36,https://jzb.wwkejishe.top/?id=578$订阅源
+2025-10-13 18:46:40,https://jzb.wwkejishe.top/?id=578$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-6,https://jzb.wwkejishe.top/?id=584$订阅源
-CCTV-7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7$订阅源
 CCTV-8,https://cc06.tv12.xyz/9.m3u8$订阅源
 CCTV-8,https://jzb.wwkejishe.top/?id=586$订阅源
 CCTV-8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd$订阅源
@@ -32,6 +31,7 @@ CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
+CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 
 📡卫视频道,#genre#
 广东卫视,https://cc06.tv12.xyz/43.m3u8$订阅源
@@ -44,10 +44,12 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 湖北卫视,https://cc06.tv12.xyz/50.m3u8$订阅源
 湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei$订阅源
 黑龙江卫视,https://cc06.tv12.xyz/53.m3u8$订阅源
-黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
+黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
+安徽卫视,https://jzb.wwkejishe.top/?id=612$订阅源
 重庆卫视,https://cc06.tv12.xyz/34.m3u8$订阅源
+重庆卫视,https://jzb.wwkejishe.top/?id=607$订阅源
 东方卫视,https://cc06.tv12.xyz/37.m3u8$订阅源
 东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1$订阅源
 东方卫视,https://jzb.wwkejishe.top/?id=597$订阅源
@@ -73,6 +75,7 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源
 宁夏卫视,https://cc06.tv12.xyz/96.m3u8$订阅源
 青海卫视,https://cc06.tv12.xyz/97.m3u8$订阅源
+青海卫视,https://jzb.wwkejishe.top/?id=605$订阅源
 山东卫视,https://cc06.tv12.xyz/101.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,https://cc06.tv12.xyz/107.m3u8$订阅源
