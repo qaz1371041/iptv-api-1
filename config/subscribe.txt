@@ -1,8 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://hub.glowp.xyz/https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo.txt
-https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo_all.txt
+https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
+https://raw.githubusercontent.com/q1017673817/iptvz/main/zubo.txt
 https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.m3u
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 https://raw.githubusercontent.com/jn950/live/main/tv/holive.m3u
