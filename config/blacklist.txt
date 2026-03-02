@@ -3,3 +3,4 @@
 /audio/
 www.freetv.top
 https://iptv.catvod.com
+https://epg.pw
