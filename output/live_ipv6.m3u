@@ -76,13 +76,11 @@ http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8$IPV6�
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-03咪咕" tvg-logo="./pic/logosCCTV-03咪咕.png" group-title="🍉┃咪咕频道",CCTV-03咪咕
 http://[2409:8087:1a01:df::4041]/TVOD/88888888/224/3221225799/main.m3u8$IPV6•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-03咪咕" tvg-logo="./pic/logosCCTV-03咪咕.png" group-title="🍉┃咪咕频道",CCTV-03咪咕
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$IPV6•线路3
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-03咪咕" tvg-logo="./pic/logosCCTV-03咪咕.png" group-title="🍉┃咪咕频道",CCTV-03咪咕
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8$IPV6•线路4
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk$IPV6•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-03咪咕" tvg-logo="./pic/logosCCTV-03咪咕.png" group-title="🍉┃咪咕频道",CCTV-03咪咕
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk$IPV6•线路5
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV-03咪咕" tvg-logo="./pic/logosCCTV-03咪咕.png" group-title="🍉┃咪咕频道",CCTV-03咪咕
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$IPV6•线路6
+http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$IPV6•线路5
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-05咪咕" tvg-logo="./pic/logosCCTV-05咪咕.png" group-title="🍉┃咪咕频道",CCTV-05咪咕
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-05咪咕" tvg-logo="./pic/logosCCTV-05咪咕.png" group-title="🍉┃咪咕频道",CCTV-05咪咕
@@ -118,9 +116,11 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-08咪咕" tvg-logo="./pic/logosCCTV-08咪咕.png" group-title="🍉┃咪咕频道",CCTV-08咪咕
 http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225795/main.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-08咪咕" tvg-logo="./pic/logosCCTV-08咪咕.png" group-title="🍉┃咪咕频道",CCTV-08咪咕
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8$IPV6•线路4
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$IPV6•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-08咪咕" tvg-logo="./pic/logosCCTV-08咪咕.png" group-title="🍉┃咪咕频道",CCTV-08咪咕
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8$IPV6•线路5
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8$IPV6•线路5
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-08咪咕" tvg-logo="./pic/logosCCTV-08咪咕.png" group-title="🍉┃咪咕频道",CCTV-08咪咕
+http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8$IPV6•线路6
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-09咪咕" tvg-logo="./pic/logosCCTV-09咪咕.png" group-title="🍉┃咪咕频道",CCTV-09咪咕
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-09咪咕" tvg-logo="./pic/logosCCTV-09咪咕.png" group-title="🍉┃咪咕频道",CCTV-09咪咕
@@ -139,6 +139,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-10咪咕" tvg-logo="./pic/logosCCTV-10咪咕.png" group-title="🍉┃咪咕频道",CCTV-10咪咕
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8$IPV6•线路4
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-10咪咕" tvg-logo="./pic/logosCCTV-10咪咕.png" group-title="🍉┃咪咕频道",CCTV-10咪咕
+http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzhRgoBfyoaW0eC2lnTJYAQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOxqyo6ss4VuHKCaIhF4e3B%2CEND$IPV6•线路5
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-11咪咕" tvg-logo="./pic/logosCCTV-11咪咕.png" group-title="🍉┃咪咕频道",CCTV-11咪咕
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-11咪咕" tvg-logo="./pic/logosCCTV-11咪咕.png" group-title="🍉┃咪咕频道",CCTV-11咪咕
@@ -165,8 +167,6 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8$IPV6•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-12咪咕" tvg-logo="./pic/logosCCTV-12咪咕.png" group-title="🍉┃咪咕频道",CCTV-12咪咕
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8$IPV6•线路6
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-13咪咕" tvg-logo="./pic/logosCCTV-13咪咕.png" group-title="🍉┃咪咕频道",CCTV-13咪咕
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$IPV6
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-14咪咕" tvg-logo="./pic/logosCCTV-14咪咕.png" group-title="🍉┃咪咕频道",CCTV-14咪咕
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-14咪咕" tvg-logo="./pic/logosCCTV-14咪咕.png" group-title="🍉┃咪咕频道",CCTV-14咪咕
@@ -236,11 +236,9 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-17咪咕" tvg-logo="./pic/logosCCTV-17咪咕.png" group-title="🍉┃咪咕频道",CCTV-17咪咕
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$IPV6•线路6
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV-17咪咕" tvg-logo="./pic/logosCCTV-17咪咕.png" group-title="🍉┃咪咕频道",CCTV-17咪咕
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8$IPV6•线路7
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8$IPV6•线路7
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV-17咪咕" tvg-logo="./pic/logosCCTV-17咪咕.png" group-title="🍉┃咪咕频道",CCTV-17咪咕
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8$IPV6•线路8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV-17咪咕" tvg-logo="./pic/logosCCTV-17咪咕.png" group-title="🍉┃咪咕频道",CCTV-17咪咕
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$IPV6•线路9
+http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$IPV6•线路8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-5+咪咕" tvg-logo="./pic/logosCCTV-5+咪咕.png" group-title="🍉┃咪咕频道",CCTV-5+咪咕
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-5+咪咕" tvg-logo="./pic/logosCCTV-5+咪咕.png" group-title="🍉┃咪咕频道",CCTV-5+咪咕
@@ -252,13 +250,13 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-5+咪咕" tvg-logo="./pic/logosCCTV-5+咪咕.png" group-title="🍉┃咪咕频道",CCTV-5+咪咕
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$IPV6•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+咪咕" tvg-logo="./pic/logosCCTV-5+咪咕.png" group-title="🍉┃咪咕频道",CCTV-5+咪咕
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND$IPV6•线路6
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8$IPV6•线路6
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV-5+咪咕" tvg-logo="./pic/logosCCTV-5+咪咕.png" group-title="🍉┃咪咕频道",CCTV-5+咪咕
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路7
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND$IPV6•线路7
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV-5+咪咕" tvg-logo="./pic/logosCCTV-5+咪咕.png" group-title="🍉┃咪咕频道",CCTV-5+咪咕
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8$IPV6•线路8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV-5+咪咕" tvg-logo="./pic/logosCCTV-5+咪咕.png" group-title="🍉┃咪咕频道",CCTV-5+咪咕
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8$IPV6•线路9
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路9
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视咪咕" tvg-logo="./pic/logos东方卫视咪咕.png" group-title="🍉┃咪咕频道",东方卫视咪咕
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="东方卫视咪咕" tvg-logo="./pic/logos东方卫视咪咕.png" group-title="🍉┃咪咕频道",东方卫视咪咕
@@ -273,6 +271,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226310/index.m3u8$IPV6•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="江苏卫视咪咕" tvg-logo="./pic/logos江苏卫视咪咕.png" group-title="🍉┃咪咕频道",江苏卫视咪咕
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226310/index.m3u8$IPV6•线路3
+#EXTINF:-1 tvg-id="4" tvg-name="江苏卫视咪咕" tvg-logo="./pic/logos江苏卫视咪咕.png" group-title="🍉┃咪咕频道",江苏卫视咪咕
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8$IPV6•线路4
 #EXTINF:-1 tvg-id="1" tvg-name="陕西卫视咪咕" tvg-logo="./pic/logos陕西卫视咪咕.png" group-title="🍉┃咪咕频道",陕西卫视咪咕
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="陕西卫视咪咕" tvg-logo="./pic/logos陕西卫视咪咕.png" group-title="🍉┃咪咕频道",陕西卫视咪咕
@@ -284,7 +284,11 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="5" tvg-name="陕西卫视咪咕" tvg-logo="./pic/logos陕西卫视咪咕.png" group-title="🍉┃咪咕频道",陕西卫视咪咕
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6sNSqmLCqLFl_AJPBXp1qA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO6b4uKEI14SNy0LDiw52LH%2CEND$IPV6•线路5
 #EXTINF:-1 tvg-id="1" tvg-name="湖北卫视咪咕" tvg-logo="./pic/logos湖北卫视咪咕.png" group-title="🍉┃咪咕频道",湖北卫视咪咕
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
+#EXTINF:-1 tvg-id="2" tvg-name="湖北卫视咪咕" tvg-logo="./pic/logos湖北卫视咪咕.png" group-title="🍉┃咪咕频道",湖北卫视咪咕
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExfU_RR0RQok0w_xd7h22CQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPVnDV2fEBphgm3TP7hAHBx%2CEND$IPV6•线路2
+#EXTINF:-1 tvg-id="3" tvg-name="湖北卫视咪咕" tvg-logo="./pic/logos湖北卫视咪咕.png" group-title="🍉┃咪咕频道",湖北卫视咪咕
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226501/index.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视咪咕" tvg-logo="./pic/logos江西卫视咪咕.png" group-title="🍉┃咪咕频道",江西卫视咪咕
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="江西卫视咪咕" tvg-logo="./pic/logos江西卫视咪咕.png" group-title="🍉┃咪咕频道",江西卫视咪咕
@@ -328,9 +332,9 @@ http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 #EXTINF:-1 tvg-id="3" tvg-name="广东卫视" tvg-logo="./pic/logos广东卫视.png" group-title="📡卫视频道",广东卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="广东卫视" tvg-logo="./pic/logos广东卫视.png" group-title="📡卫视频道",广东卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$IPV6•线路4
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8$IPV6•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="广东卫视" tvg-logo="./pic/logos广东卫视.png" group-title="📡卫视频道",广东卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8$IPV6•线路5
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$IPV6•线路5
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="./pic/logos浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="./pic/logos浙江卫视.png" group-title="📡卫视频道",浙江卫视
@@ -338,25 +342,31 @@ http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="./pic/logos湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225610/index.m3u8$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="湖南卫视" tvg-logo="./pic/logos湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8$IPV6•线路2
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226493/1.m3u8$IPV6•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="湖南卫视" tvg-logo="./pic/logos湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8$IPV6•线路3
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8$IPV6•线路3
+#EXTINF:-1 tvg-id="4" tvg-name="湖南卫视" tvg-logo="./pic/logos湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8$IPV6•线路4
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="./pic/logos北京卫视.png" group-title="📡卫视频道",北京卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="./pic/logos北京卫视.png" group-title="📡卫视频道",北京卫视
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND$IPV6•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="北京卫视" tvg-logo="./pic/logos北京卫视.png" group-title="📡卫视频道",北京卫视
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8$IPV6•线路3
+#EXTINF:-1 tvg-id="4" tvg-name="北京卫视" tvg-logo="./pic/logos北京卫视.png" group-title="📡卫视频道",北京卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8$IPV6•线路4
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="./pic/logos黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江卫视" tvg-logo="./pic/logos黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEHwpSHKc5p-bHJfhpIWFig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5Y8rTELLykZJHp-bmY2YW%2CEND$IPV6•线路2
+http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8$IPV6•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江卫视" tvg-logo="./pic/logos黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8$IPV6•线路3
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEHwpSHKc5p-bHJfhpIWFig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5Y8rTELLykZJHp-bmY2YW%2CEND$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="黑龙江卫视" tvg-logo="./pic/logos黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8$IPV6•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="黑龙江卫视" tvg-logo="./pic/logos黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8$IPV6•线路5
+#EXTINF:-1 tvg-id="6" tvg-name="黑龙江卫视" tvg-logo="./pic/logos黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8$IPV6•线路6
 #EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="./pic/logos安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="安徽卫视" tvg-logo="./pic/logos安徽卫视.png" group-title="📡卫视频道",安徽卫视
@@ -364,7 +374,9 @@ http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 #EXTINF:-1 tvg-id="3" tvg-name="安徽卫视" tvg-logo="./pic/logos安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226498/index.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="安徽卫视" tvg-logo="./pic/logos安徽卫视.png" group-title="📡卫视频道",安徽卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2802330256_375747539/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1668597596&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3$IPV6•线路4
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226391/index.m3u8$IPV6•线路4
+#EXTINF:-1 tvg-id="5" tvg-name="安徽卫视" tvg-logo="./pic/logos安徽卫视.png" group-title="📡卫视频道",安徽卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2802330256_375747539/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1668597596&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3$IPV6•线路5
 #EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="./pic/logos重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="重庆卫视" tvg-logo="./pic/logos重庆卫视.png" group-title="📡卫视频道",重庆卫视
@@ -372,9 +384,13 @@ http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 #EXTINF:-1 tvg-id="3" tvg-name="重庆卫视" tvg-logo="./pic/logos重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226409/index.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="重庆卫视" tvg-logo="./pic/logos重庆卫视.png" group-title="📡卫视频道",重庆卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8$IPV6•线路4
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND$IPV6•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="重庆卫视" tvg-logo="./pic/logos重庆卫视.png" group-title="📡卫视频道",重庆卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8$IPV6•线路5
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8$IPV6•线路5
+#EXTINF:-1 tvg-id="6" tvg-name="重庆卫视" tvg-logo="./pic/logos重庆卫视.png" group-title="📡卫视频道",重庆卫视
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8$IPV6•线路6
+#EXTINF:-1 tvg-id="7" tvg-name="重庆卫视" tvg-logo="./pic/logos重庆卫视.png" group-title="📡卫视频道",重庆卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8$IPV6•线路7
 #EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="./pic/logos东南卫视.png" group-title="📡卫视频道",东南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="东南卫视" tvg-logo="./pic/logos东南卫视.png" group-title="📡卫视频道",东南卫视
@@ -413,6 +429,8 @@ http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225974/main.m3u8$IPV6�
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226474/index.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="贵州卫视" tvg-logo="./pic/logos贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226474/index.m3u8$IPV6•线路4
+#EXTINF:-1 tvg-id="5" tvg-name="贵州卫视" tvg-logo="./pic/logos贵州卫视.png" group-title="📡卫视频道",贵州卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8$IPV6•线路5
 #EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="./pic/logos河北卫视.png" group-title="📡卫视频道",河北卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="河北卫视" tvg-logo="./pic/logos河北卫视.png" group-title="📡卫视频道",河北卫视
@@ -428,9 +446,11 @@ http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 #EXTINF:-1 tvg-id="3" tvg-name="吉林卫视" tvg-logo="./pic/logos吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="吉林卫视" tvg-logo="./pic/logos吉林卫视.png" group-title="📡卫视频道",吉林卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8$IPV6•线路4
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EicY_6znuOTlmMeE15TFEig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNNUZpDp9cPVsM_M_ftJRVM%2CEND$IPV6•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="吉林卫视" tvg-logo="./pic/logos吉林卫视.png" group-title="📡卫视频道",吉林卫视
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EicY_6znuOTlmMeE15TFEig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNNUZpDp9cPVsM_M_ftJRVM%2CEND$IPV6•线路5
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8$IPV6•线路5
+#EXTINF:-1 tvg-id="6" tvg-name="吉林卫视" tvg-logo="./pic/logos吉林卫视.png" group-title="📡卫视频道",吉林卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPV6•线路6
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="./pic/logos辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁卫视" tvg-logo="./pic/logos辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
@@ -438,9 +458,11 @@ http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 #EXTINF:-1 tvg-id="3" tvg-name="辽宁卫视" tvg-logo="./pic/logos辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226254/index.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="辽宁卫视" tvg-logo="./pic/logos辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPV6•线路4
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8$IPV6•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="辽宁卫视" tvg-logo="./pic/logos辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPV6•线路5
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPV6•线路5
+#EXTINF:-1 tvg-id="6" tvg-name="辽宁卫视" tvg-logo="./pic/logos辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPV6•线路6
 #EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="./pic/logos内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="内蒙古卫视" tvg-logo="./pic/logos内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
@@ -461,10 +483,6 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/8/32
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226454/index.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="宁夏卫视" tvg-logo="./pic/logos宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001074/index.m3u8$IPV6•线路4
-#EXTINF:-1 tvg-id="5" tvg-name="宁夏卫视" tvg-logo="./pic/logos宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227254/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPV6•线路5
-#EXTINF:-1 tvg-id="6" tvg-name="宁夏卫视" tvg-logo="./pic/logos宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8$IPV6•线路6
 #EXTINF:-1 tvg-id="1" tvg-name="青海卫视" tvg-logo="./pic/logos青海卫视.png" group-title="📡卫视频道",青海卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="青海卫视" tvg-logo="./pic/logos青海卫视.png" group-title="📡卫视频道",青海卫视
@@ -474,13 +492,9 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="4" tvg-name="青海卫视" tvg-logo="./pic/logos青海卫视.png" group-title="📡卫视频道",青海卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226916/1.m3u8$IPV6•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="青海卫视" tvg-logo="./pic/logos青海卫视.png" group-title="📡卫视频道",青海卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001082/index.m3u8$IPV6•线路5
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226529/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ege4qzvU2ax15UdL3NFQ7AQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNdiWnhjH1amCOGECUhABr9%2CEND$IPV6•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="青海卫视" tvg-logo="./pic/logos青海卫视.png" group-title="📡卫视频道",青海卫视
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226529/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ege4qzvU2ax15UdL3NFQ7AQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNdiWnhjH1amCOGECUhABr9%2CEND$IPV6•线路6
-#EXTINF:-1 tvg-id="7" tvg-name="青海卫视" tvg-logo="./pic/logos青海卫视.png" group-title="📡卫视频道",青海卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227119/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPV6•线路7
-#EXTINF:-1 tvg-id="8" tvg-name="青海卫视" tvg-logo="./pic/logos青海卫视.png" group-title="📡卫视频道",青海卫视
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227119/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPV6•线路8
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001082/index.m3u8$IPV6•线路6
 #EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="./pic/logos山东卫视.png" group-title="📡卫视频道",山东卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="山东卫视" tvg-logo="./pic/logos山东卫视.png" group-title="📡卫视频道",山东卫视
@@ -511,6 +525,10 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8$IPV6•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="四川卫视" tvg-logo="./pic/logos四川卫视.png" group-title="📡卫视频道",四川卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226338/index.m3u8$IPV6•线路3
+#EXTINF:-1 tvg-id="4" tvg-name="四川卫视" tvg-logo="./pic/logos四川卫视.png" group-title="📡卫视频道",四川卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$IPV6•线路4
+#EXTINF:-1 tvg-id="5" tvg-name="四川卫视" tvg-logo="./pic/logos四川卫视.png" group-title="📡卫视频道",四川卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226523/1.m3u8$IPV6•线路5
 #EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="./pic/logos深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="深圳卫视" tvg-logo="./pic/logos深圳卫视.png" group-title="📡卫视频道",深圳卫视
@@ -518,11 +536,11 @@ http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 #EXTINF:-1 tvg-id="3" tvg-name="深圳卫视" tvg-logo="./pic/logos深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="深圳卫视" tvg-logo="./pic/logos深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227555/index.m3u8$IPV6•线路4
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$IPV6•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="深圳卫视" tvg-logo="./pic/logos深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$IPV6•线路5
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8$IPV6•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="深圳卫视" tvg-logo="./pic/logos深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8$IPV6•线路6
+http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227555/index.m3u8$IPV6•线路6
 #EXTINF:-1 tvg-id="7" tvg-name="深圳卫视" tvg-logo="./pic/logos深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226495/1.m3u8$IPV6•线路7
 #EXTINF:-1 tvg-id="1" tvg-name="三沙卫视" tvg-logo="./pic/logos三沙卫视.png" group-title="📡卫视频道",三沙卫视
@@ -552,15 +570,15 @@ http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 #EXTINF:-1 tvg-id="4" tvg-name="天津卫视" tvg-logo="./pic/logos天津卫视.png" group-title="📡卫视频道",天津卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226459/index.m3u8$IPV6•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="天津卫视" tvg-logo="./pic/logos天津卫视.png" group-title="📡卫视频道",天津卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8$IPV6•线路5
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8$IPV6•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="天津卫视" tvg-logo="./pic/logos天津卫视.png" group-title="📡卫视频道",天津卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8$IPV6•线路6
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8$IPV6•线路6
 #EXTINF:-1 tvg-id="7" tvg-name="天津卫视" tvg-logo="./pic/logos天津卫视.png" group-title="📡卫视频道",天津卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226489/1.m3u8$IPV6•线路7
+http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227488/index.m3u8$IPV6•线路7
 #EXTINF:-1 tvg-id="8" tvg-name="天津卫视" tvg-logo="./pic/logos天津卫视.png" group-title="📡卫视频道",天津卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226502/1.m3u8$IPV6•线路8
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226489/1.m3u8$IPV6•线路8
 #EXTINF:-1 tvg-id="9" tvg-name="天津卫视" tvg-logo="./pic/logos天津卫视.png" group-title="📡卫视频道",天津卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227488/index.m3u8$IPV6•线路9
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226502/1.m3u8$IPV6•线路9
 #EXTINF:-1 tvg-id="1" tvg-name="西藏卫视" tvg-logo="./pic/logos西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$IPV6•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="西藏卫视" tvg-logo="./pic/logos西藏卫视.png" group-title="📡卫视频道",西藏卫视
@@ -590,15 +608,15 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="3" tvg-name="云南卫视" tvg-logo="./pic/logos云南卫视.png" group-title="📡卫视频道",云南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="云南卫视" tvg-logo="./pic/logos云南卫视.png" group-title="📡卫视频道",云南卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226928/1.m3u8$IPV6•线路4
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzQy9f4DIExLCs810r0Q6Kw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND$IPV6•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="云南卫视" tvg-logo="./pic/logos云南卫视.png" group-title="📡卫视频道",云南卫视
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzQy9f4DIExLCs810r0Q6Kw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND$IPV6•线路5
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8$IPV6•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="云南卫视" tvg-logo="./pic/logos云南卫视.png" group-title="📡卫视频道",云南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8$IPV6•线路6
+http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8$IPV6•线路6
 #EXTINF:-1 tvg-id="7" tvg-name="云南卫视" tvg-logo="./pic/logos云南卫视.png" group-title="📡卫视频道",云南卫视
-http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8$IPV6•线路7
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPV6•线路7
 #EXTINF:-1 tvg-id="8" tvg-name="云南卫视" tvg-logo="./pic/logos云南卫视.png" group-title="📡卫视频道",云南卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPV6•线路8
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225853/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$IPV6•线路8
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="./pic/logos凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8$IPV6
 #EXTINF:-1 tvg-id="1" tvg-name="湾区卫视" tvg-logo="./pic/logos湾区卫视.png" group-title="📡卫视咪咕",湾区卫视
@@ -700,9 +718,7 @@ http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="3" tvg-name="睛彩广场舞" tvg-logo="./pic/logos睛彩广场舞.png" group-title="🏍咪咕体育",睛彩广场舞
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/index.m3u8$IPV6•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="睛彩广场舞" tvg-logo="./pic/logos睛彩广场舞.png" group-title="🏍咪咕体育",睛彩广场舞
-http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8$IPV6•线路4
-#EXTINF:-1 tvg-id="5" tvg-name="睛彩广场舞" tvg-logo="./pic/logos睛彩广场舞.png" group-title="🏍咪咕体育",睛彩广场舞
-http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226139/1.m3u8$IPV6•线路5
+http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226139/1.m3u8$IPV6•线路4
 #EXTINF:-1 tvg-id="1" tvg-name="五星体育" tvg-logo="./pic/logos五星体育.png" group-title="🏍咪咕体育",五星体育
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8$IPV6
 #EXTINF:-1 tvg-id="1" tvg-name="广东珠江" tvg-logo="./pic/logos广东珠江.png" group-title="🏍咪咕体育",广东珠江
